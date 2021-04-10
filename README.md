@@ -19,3 +19,4 @@ Homeworks:
 7. [Community Detection part 1](https://github.com/upayuryeva/Network_Science_Homeworks/blob/main/NS_HW_7_Community_Detection.ipynb)
 8. [Community Detection part 2](https://github.com/upayuryeva/Network_Science_Homeworks/blob/main/NS_HW_8_Community_Detection_part_2.ipynb)
 9. [Compartmental Epidemic Models](https://github.com/upayuryeva/Network_Science_Homeworks/blob/main/NS_HW_9_Compartmental_Epidemic_Models.ipynb)
+10. [Epidemics on graphs](https://github.com/upayuryeva/Network_Science_Homeworks/blob/main/NS_HW_10_Epidemics_on_graphs.ipynb)
